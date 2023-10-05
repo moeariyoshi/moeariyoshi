@@ -23,7 +23,8 @@ Worked with web crawling, data scraping and SQL databases.
 
 - Winter Term 2023: Collaborative Coding | Oberlin, OH | Jan 2023  
 Made a webapp that imitates Google Classroom but allows to create study groups and sessions.  
-Worked with React, MongoDB, Express and Node.  
+Worked with React, MongoDB, Express and Node.
+https://github.com/OberlinCollaborativeCodingWinterTerm/winter-term-project-web_app
 
 - Portfolio Building | Oberlin, OH | Spring 2023  
 Learned the Angular framework and built a portfolio.
