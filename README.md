@@ -45,7 +45,15 @@ Learned the Angular framework and built a portfolio.
 
 ## 🤓  Classes in Computer Science
 - Data Structures | Spring 2023  
-- Systems Programming | Fall 2023 (current)  
+- Systems Programming | Fall 2023 (current)
+
+### Other classes I have taken 
+- Spanish 101
+- Intro to Psychology
+- Work & Anti-Work
+- Theater & Politics
+- Electromagnetics & Thermodynamics
+- Multivariable Calculus
 
 ## 🤘🏻  Other Experience
 - Social Media Intern | Oberlin College | Oberlin, OH | Jan 2023 - present
