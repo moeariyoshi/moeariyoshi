@@ -12,6 +12,8 @@ I am very interested in Artificial Intelligence and how it can help politics in 
 I am a third-culture-kid who grew up in France, Bangladesh, and the US (Hawaii). 
 I love meeting new people with different values because I believe in what is learned from the challenges.  
 
+I have an intense drive to learn and will learn new languages just by seeing code!  
+
 ## 💪🏻  Current Projects
 
 - [ ] Finishing making my Angular portfolio
