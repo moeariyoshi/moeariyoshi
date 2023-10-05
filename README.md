@@ -1,5 +1,8 @@
-# Welcome to my GitHub! 👋🏻
-## I am currently looking for a January opportunity in India and a summer opportunity anywhere in the world 🌍
+# Hi, I'm Moe!
+
+## Welcome to my GitHub! 👋🏻
+
+*I am currently looking for a January opportunity in India and a summer opportunity anywhere in the world* 🌍
 
 ## 👧🏻 About Me
 
