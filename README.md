@@ -6,10 +6,10 @@
 
 ## 👧🏻 About Me
 
-I'm a college student in the US from Japan.  
+I'm a college student in the US from Japan. 🇯🇵 
 I am very interested in Artificial Intelligence and how it can help politics in ways such as analyzing public policies but also suggesting actions. Possibilities of new systems developed through financial technologies also interest me.
 
-I am a third-culture-kid who grew up in France, Bangladesh, and the US (Hawaii).   
+I am a third-culture-kid who grew up in France, Bangladesh, and the US (Hawaii). 🇫🇷🇧🇩🇺🇸
 I love meeting new people with different values because I believe in what is learned from the challenges.  
 
 ## 💪🏻 Current Projects
