@@ -73,7 +73,8 @@ Learned the Angular framework and built a portfolio.
 
 | 🕺🏻 Skills | 🪴 Hobbies | 👅 Languages | 🎧 Artists |
 | ---------- | ------------ | ------------ | --------- |
-| Adobe Creative Cloud | Crocheting | 日本語 | Dua Lipa |
+| Adobe Creative Cloud | Crocheting & Painting 🎨 | 日本語 | Dua Lipa |
 | Microsoft Office | Backpacking/Traveling  | English | Bruno Mars |
-| | Painting 🎨 | Français | Jacob Collier |
-| | Tennis 🎾 | | + Debussy & more! |
+| | Swing & Samba 💃🏻 | Français | Jacob Collier |
+| | Tennis 🎾 | | Debussy |
+| | Reading | | Etta James & more! |
