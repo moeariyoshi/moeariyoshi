@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 👋
+# Welcome to my GitHub! 👋🏻
 ## I am currently looking for a January opportunity in India and a summer opportunity anywhere in the world 🌍
 
 ## 👧🏻 About Me
@@ -8,7 +8,7 @@ I am very interested in Artificial Intelligence and how it can help politics
 in ways such as analyzing public policies but also suggesting actions. 
 I am also interested in the possibility of new systems developed through financial technologies.
 
-## 🔭 Current Projects
+## 💪🏻 Current Projects
 
 - Finishing making my Angular portfolio
 
@@ -42,7 +42,7 @@ Learned the Angular framework and built a portfolio.
 - Data Structures | Spring 2023  
 - Systems Programming | Fall 2023 (current)  
 
-## 🤘 Other Experience
+## 🤘🏻 Other Experience
 - Social Media Intern | Oberlin College | Oberlin, OH
 Jan 2023 - present
 
@@ -55,7 +55,7 @@ Nov 2022 - present
 - Committee Chair | Oberlin Samba School | Oberlin, OH
 May 2023 - present
 
-## ⭐️ Awards 
+## 🏆 Awards 
 - Adobe x Asahi Creative Idea Contest Award 2021
 
 ## 🕺🏻 Skills
