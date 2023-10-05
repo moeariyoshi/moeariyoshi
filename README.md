@@ -22,8 +22,8 @@ I love meeting new people with different values because I believe in what is lea
 
 ## 👩🏻‍💻  Coding Experience
 - **Software Engineering Intern** | lamproo | Tokyo, Japan | May 2023 - Aug 2023  
-Wrote code for https://www.kachisuji.com/ using **Ruby**.  
-Worked with web crawling, data scraping and **SQL** databases.  
+Learned Ruby and wrote code for https://www.kachisuji.com/.  
+Worked with containers (Docker) and web crawling, data scraping, filtering, and **SQL** databases.
 
 - Winter Term 2023: Collaborative Coding | Oberlin, OH | Jan 2023  
 Made a webapp that imitates Google Classroom but allows to create study groups and sessions.  
