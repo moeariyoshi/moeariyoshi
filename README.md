@@ -4,7 +4,7 @@
 
 *I am currently looking for a January opportunity in India and a summer opportunity anywhere in the world* 🌍
 
-## 👧🏻 About Me
+## 👧🏻  About Me
 
 I'm a college student in the US from Japan. 🇯🇵 
 I am very interested in Artificial Intelligence and how it can help politics in ways such as analyzing public policies but also suggesting actions. Possibilities of new systems developed through financial technologies also interest me.
@@ -12,15 +12,15 @@ I am very interested in Artificial Intelligence and how it can help politics in 
 I am a third-culture-kid who grew up in France, Bangladesh, and the US (Hawaii). 🇫🇷🇧🇩🇺🇸
 I love meeting new people with different values because I believe in what is learned from the challenges.  
 
-## 💪🏻 Current Projects
+## 💪🏻  Current Projects
 
 - [ ] Finishing making my Angular portfolio
 
-## 👯‍♀️ Projects I want to find friends to work together on...
+## 👯‍♀️  Projects I want to find friends to work together on...
 - CTF
 - AWS certificate
 
-## 👩🏻‍💻 Coding Experience
+## 👩🏻‍💻  Coding Experience
 - **Software Engineering Intern** | lamproo | Tokyo, Japan | May 2023 - Aug 2023  
 Wrote code for https://www.kachisuji.com/ using **Ruby**.  
 Worked with web crawling, data scraping and **SQL** databases.  
@@ -33,7 +33,7 @@ https://github.com/OberlinCollaborativeCodingWinterTerm/winter-term-project-web_
 - Portfolio Building | Oberlin, OH | Spring 2023  
 Learned the Angular framework and built a portfolio.
 
-## 💬 I have experience with ...
+## 💬  I have experience with ...
 - Python
 - Java
 - Ruby 
@@ -43,11 +43,11 @@ Learned the Angular framework and built a portfolio.
 - bash
 - Angular
 
-## 🤓 Classes in Computer Science
+## 🤓  Classes in Computer Science
 - Data Structures | Spring 2023  
 - Systems Programming | Fall 2023 (current)  
 
-## 🤘🏻 Other Experience
+## 🤘🏻  Other Experience
 - Social Media Intern | Oberlin College | Oberlin, OH | Jan 2023 - present
 
 - Scenic Artist Assistant | Oberlin College Theater Department | Oberlin, OH | Jan 2023 - present 
@@ -56,20 +56,14 @@ Learned the Angular framework and built a portfolio.
 
 - Committee Chair | Oberlin Samba School | Oberlin, OH | May 2023 - present
 
-## 🏆 Awards 
+## 🏆  Awards 
 - Adobe x Asahi Creative Idea Contest Award 2021
 
-## 🕺🏻 Skills
-- Adobe Creative Cloud
-- Microsoft Office
+## 🌈  Other Things About Me! 
 
-## 🪴 My Hobbies
-- Crocheting
-- Backpacking/Traveling
-- Painting 🎨
-- Tennis 🎾
-
-## 👅 Languages
-- 日本語
-- English
-- Français
+| 🕺🏻 Skills | 🪴 My Hobbies | 👅 Languages |
+| ------------ | --------------- | ---------------- |
+| Adobe Creative Cloud | Crocheting | 日本語 |
+| Microsoft Office | Backpacking/Traveling  | English |
+| | Painting 🎨 | Français |
+| | Tennis 🎾 | |
