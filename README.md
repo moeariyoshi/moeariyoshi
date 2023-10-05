@@ -1,26 +1,20 @@
 # Welcome to my GitHub! 👋
+## I am currently looking for a January opportunity in India and a summer opportunity anywhere in the world 🌍
 
 ## 👧🏻 About Me
 
-I'm a college student in the US from Japan. 
+I'm a college student in the US from Japan.  
+I am very interested in Artificial Intelligence and how it can help politics
+in ways such as analyzing public policies but also suggesting actions. 
+I am also interested in the possibility of new systems developed through financial technologies.
 
 ## 🔭 Current Projects
 
 - Finishing making my Angular portfolio
 
-## 👯‍♀️ I want to find friends to work together on ...
+## 👯‍♀️ Projects I want to find friends to work together on...
 - CTF
 - AWS certificate
-
-## 💬 I have experience with ...
-- Python
-- Java
-- Ruby 
-- SQL
-- Rust
-- Docker
-- bash
-- Angular
 
 ## 👩🏻‍💻 Coding Experience
 - Software Engineering Intern | lamproo | Tokyo, Japan | May 2023 - Aug 2023  
@@ -32,7 +26,17 @@ Made a webapp that imitates Google Classroom but allows to create study groups a
 Worked with React, MongoDB, Express and Node.  
 
 - Portfolio Building | Oberlin, OH | Spring 2023  
-Learned the Angular framework and built a portfolio.   
+Learned the Angular framework and built a portfolio.
+
+## 💬 I have experience with ...
+- Python
+- Java
+- Ruby 
+- SQL
+- Rust
+- Docker
+- bash
+- Angular
 
 ## 🤓 Classes in Computer Science
 - Data Structures | Spring 2023  
@@ -60,8 +64,7 @@ May 2023 - present
 
 ## 🪴 My Hobbies
 - Crocheting
-- Backpacking
-- Traveling
+- Backpacking/Traveling
 - Painting 🎨
 - Tennis 🎾
 
