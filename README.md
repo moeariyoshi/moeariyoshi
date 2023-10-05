@@ -8,7 +8,7 @@ I am very interested in Artificial Intelligence and how it can help politics in 
 
 ## 💪🏻 Current Projects
 
-- Finishing making my Angular portfolio
+- [ ] Finishing making my Angular portfolio
 
 ## 👯‍♀️ Projects I want to find friends to work together on...
 - CTF
