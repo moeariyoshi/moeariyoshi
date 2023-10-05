@@ -15,13 +15,13 @@ I am very interested in Artificial Intelligence and how it can help politics in 
 - AWS certificate
 
 ## 👩🏻‍💻 Coding Experience
-- Software Engineering Intern | lamproo | Tokyo, Japan | May 2023 - Aug 2023  
-Wrote code for https://www.kachisuji.com/ using Ruby.  
-Worked with web crawling, data scraping and SQL databases.  
+- **Software Engineering Intern** | lamproo | Tokyo, Japan | May 2023 - Aug 2023  
+Wrote code for https://www.kachisuji.com/ using **Ruby**.  
+Worked with web crawling, data scraping and **SQL** databases.  
 
 - Winter Term 2023: Collaborative Coding | Oberlin, OH | Jan 2023  
 Made a webapp that imitates Google Classroom but allows to create study groups and sessions.  
-Worked with React, MongoDB, Express and Node.  
+Worked with **React, MongoDB, Express and Node**.  
 https://github.com/OberlinCollaborativeCodingWinterTerm/winter-term-project-web_app
 
 - Portfolio Building | Oberlin, OH | Spring 2023  
