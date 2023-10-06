@@ -68,6 +68,8 @@ Learned the Angular framework and built a portfolio.
 
 ## 🏆  Awards 
 - Adobe x Asahi Creative Idea Contest Award 2021
+- John F. Oberin Scholar
+- Edwin O. Reischauer Scholar
 
 ## 🌈  Other Things About Me! 
 
