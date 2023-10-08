@@ -7,12 +7,12 @@
 ## 👧🏻  About Me 🇫🇷 🇧🇩 🇺🇸
 
 I'm a college student in the US from Japan! 🇯🇵 
-I am very interested in Artificial Intelligence and how it can help politics in ways such as analyzing public policies but also suggesting actions. Possibilities of new systems developed through financial technologies also interest me.
+I am very interested in how the digital ads generate revenue from their business models and also how Artificial Intelligence can help politics in ways such as analyzing public policies suggesting actions. I am also interested in new systems of economy through the development of financial technologies. 
 
-I am a third-culture-kid who grew up in France, Bangladesh, and the US (Hawaii). 
+I am also a third-culture-kid who grew up in France, Bangladesh, and the US (Hawaii). 
 I love meeting new people with different values because I believe in what is learned from the challenges.  
 
-I have an intense drive to learn and will learn new languages just by seeing code!  
+I have an intense drive to learn and will learn new languages through reading code!  
 
 ## 💪🏻  Current Projects
 
