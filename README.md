@@ -49,13 +49,10 @@ Learned the Angular framework and built a portfolio.
 - Data Structures | Spring 2023  
 - Systems Programming | Fall 2023 (current)
 
-### Other classes I have taken 
-- Spanish 101
-- Intro to Psychology
-- Work & Anti-Work
-- Theater & Politics
-- Electromagnetics & Thermodynamics
-- Multivariable Calculus
+### 📗 Other classes I have taken 
+| Spanish 101 | FYSP 005 Work & Anti-Work | MATH 231 Multivariable Calculus | CyborgCo 🤖 ||
+| POLT 111 Theater & Politics | PSYC 100 Intro to Psychology | PHYS 111 Electromagnetics & Thermodynamics | Beginning Improvisation 🎷 ||
+| BUSI 110 Marketing | BUSI 111 Negotiation | MATH 220 Discrete Math | POLT 231 Justice, Virtue and the Good Life | ECON 101 |
 
 ## 🤘🏻  Other Experience
 - Social Media Intern | Oberlin College | Oberlin, OH | Jan 2023 - present
