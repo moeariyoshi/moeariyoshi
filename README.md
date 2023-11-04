@@ -4,7 +4,7 @@
 
 *I am currently looking for a January opportunity in India and a summer opportunity anywhere in the world* 🌍
 
-## 👧🏻  About Me 🇫🇷 🇧🇩 🇺🇸
+## 👧🏻  About Me 🇯🇵 🇫🇷 🇧🇩 🇺🇸
 
 I'm a college student in the US from Japan! 🇯🇵 
 I am very interested in how the digital ads generate revenue from their business models and also how Artificial Intelligence can help politics in ways such as analyzing public policies suggesting actions. I am also interested in new systems of economy through the development of financial technologies. 
