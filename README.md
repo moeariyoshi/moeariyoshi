@@ -14,6 +14,8 @@ I love meeting new people with different values because I believe in what is lea
 
 I have an intense drive to learn and will learn new languages through reading code!  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeariyoshi)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 💪🏻  Current Projects
 
 - [ ] Finishing making my Angular portfolio
@@ -35,7 +37,7 @@ https://github.com/OberlinCollaborativeCodingWinterTerm/winter-term-project-web_
 - Portfolio Building | Oberlin, OH | Spring 2023  
 Learned the Angular framework and built a portfolio.
 
-## 💬  I have experience with ...
+##   I have experience with ...
 - Python
 - Java
 - Ruby 
@@ -45,24 +47,28 @@ Learned the Angular framework and built a portfolio.
 - bash
 - Angular
 
-## 🤓  Classes in Computer Science
-- Data Structures | Spring 2023  
-- Systems Programming | Fall 2023 (current)
+## 💬 Languages and Tools:
+<div>
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png">&nbsp;
+  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
+  <img width=50px src="https://rust-lang.org/logos/rust-logo-512x512.png">&nbsp;
+  <img width=50px src="https://cdn1.iconfinder.com/data/icons/miscellaneous-4/32/ruby-512.png">&nbsp;
+  <img width=50px src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-1024.png">&nbsp;
+  <img width=50px src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png">&nbsp;
+  <img width=50px src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png">&nbsp;
+  <img width=50px src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">&nbsp;
+  <img width=50px src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-128.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
+  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+  <img width=50px src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/linux_operating_system_logo-512.png">&nbsp;
+</div>
 
-### 📗 Other classes I have taken 
-- Spanish 101
-- Work & Anti-Work
-- Multivariable Calculus
-- CyborgCo 🤖
-- Theater & Politics
-- Intro to Psychology
-- Electromagnetics & Thermodynamics
-- Beginning Improvisation 🎷
-- Marketing & Negotiation
-- Discrete Math
-- Justice, Virtue and the Good Life
-- Principles of Economics
-- SwingCo 💃🏻
+## 🤓  Classes in Computer Science
+- Data Structures, Systems Programming
 
 ## 🤘🏻  Other Experience
 - Social Media Intern | Oberlin College | Oberlin, OH | Jan 2023 - present
