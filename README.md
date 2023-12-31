@@ -14,8 +14,6 @@ I love meeting new people with different values because I believe in what is lea
 
 I have an intense drive to learn and will learn new languages through reading code!  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeariyoshi)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 💪🏻  Current Projects
 
 - [ ] Finishing making my Angular portfolio
@@ -38,11 +36,14 @@ https://github.com/OberlinCollaborativeCodingWinterTerm/winter-term-project-web_
 Learned the Angular framework and built a portfolio.
 
 ## 💬 Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeariyoshi&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=50px src=" https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png">&nbsp;
   <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
   <img width=50px src="https://rust-lang.org/logos/rust-logo-512x512.png">&nbsp;
