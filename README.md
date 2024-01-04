@@ -19,6 +19,8 @@
 <div>
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
+  <img width=50px src="https://sass-lang.com/assets/img/styleguide/seal-color.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png">&nbsp;
@@ -35,6 +37,7 @@
   <img width=50px src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/linux_operating_system_logo-512.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png">&nbsp;
   <img width=50px src="https://www.svgrepo.com/show/373845/mongo.svg">&nbsp;
+  <img width=50px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png">&nbsp;
 </div>
 
 ## 🤓  Classes in Computer Science
