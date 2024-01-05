@@ -39,6 +39,7 @@
   <img width=50px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">&nbsp;
   <img width=50px src="https://img-blog.csdnimg.cn/7bf00ffb90dc403b84b0e31a4a2ca055.jpeg">&nbsp;
+  <img width=50px src="https://cdn.worldvectorlogo.com/logos/postman.svg">&nbsp;
 </div>
 
 ## 🤓  Classes in Computer Science
