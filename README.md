@@ -40,6 +40,7 @@
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png">&nbsp;
   <img width=50px src="https://img-blog.csdnimg.cn/7bf00ffb90dc403b84b0e31a4a2ca055.jpeg">&nbsp;
   <img width=50px src="https://cdn.worldvectorlogo.com/logos/postman.svg">&nbsp;
+  <img width=50px src="https://avatars.githubusercontent.com/u/28732122?s=280&v=4">&nbsp;
 </div>
 
 ## 🤓  Classes in Computer Science
