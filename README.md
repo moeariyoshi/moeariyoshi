@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub! 👋🏻
 
-*I am currently looking for a January opportunity in India and a summer opportunity anywhere in the world* 🌍
+*I am currently looking for a summer internship opportunity anywhere in the world* 🌍
 
 ## 💪🏻  Current Projects
 
@@ -44,16 +44,12 @@
 ## 🤓  Classes in Computer Science
 - Data Structures, Systems Programming
 
-## 🤘🏻  Other Experience
+## 🤘🏻  Other Experiences
+- Software Engineer | lamproo, inc. | Tokyo, Japan | May 2023 - Aug 2023
 - Social Media Intern | Oberlin College | Oberlin, OH | Jan 2023 - present
 - Scenic Artist Assistant | Oberlin College Theater Department | Oberlin, OH | Jan 2023 - present 
 - Involvement Leader | Oberlin College Girls Who Code | Oberlin, OH | Nov 2022 - present
 - Committee Chair | Oberlin Samba School | Oberlin, OH | May 2023 - present
-
-## 🏆  Awards 
-- Adobe x Asahi Creative Idea Contest Award 2021
-- John F. Oberin Scholar
-- Edwin O. Reischauer Scholar
 
 ## 🌈  Other Things About Me! 
 
