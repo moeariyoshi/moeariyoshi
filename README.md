@@ -39,6 +39,8 @@
   <img width=50px src="https://img-blog.csdnimg.cn/7bf00ffb90dc403b84b0e31a4a2ca055.jpeg">&nbsp;
   <img width=50px src="https://cdn.worldvectorlogo.com/logos/postman.svg">&nbsp;
   <img width=50px src="https://avatars.githubusercontent.com/u/28732122?s=280&v=4">&nbsp;
+  <img width=50px src="https://www.svgrepo.com/show/353657/django-icon.svg">&nbsp;
+  <img width=50px src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png">&nbsp;
 </div>
 
 ## 🤓  Classes in Computer Science
