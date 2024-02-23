@@ -1,12 +1,6 @@
-# Hi, I'm Moe!
-
-## Welcome to my GitHub! 👋🏻
+# Hi, I'm Moe! 👋🏻 
 
 *I am currently looking for a summer internship opportunity anywhere in the world* 🌍
-
-## 💪🏻  Current Projects
-
-- [ ] Finishing making my Angular portfolio
 
 ## 👯‍♀️  Projects I want to find friends to work together on...
 - CTF
