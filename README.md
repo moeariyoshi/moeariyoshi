@@ -37,10 +37,9 @@
   <img width=50px src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png">&nbsp;
 </div>
 
-## 🤓  Classes in Computer Science
-- Data Structures, Systems Programming
-
-## 🤘🏻  Other Experiences
+## 🤘🏻 Other Experiences
+- Research Assistant | Carnegie India | New Delhi, India | July 2024 -
+- Bonner Fellow Research Assistant | Oberlin, OH | January 2024 - present
 - Software Engineer | lamproo, inc. | Tokyo, Japan | May 2023 - Aug 2023
 - Social Media Intern | Oberlin College | Oberlin, OH | Jan 2023 - present
 - Scenic Artist Assistant | Oberlin College Theater Department | Oberlin, OH | Jan 2023 - present 
