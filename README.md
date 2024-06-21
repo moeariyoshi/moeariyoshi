@@ -35,6 +35,8 @@
   <img width=50px src="https://avatars.githubusercontent.com/u/28732122?s=280&v=4">&nbsp;
   <img width=50px src="https://www.svgrepo.com/show/353657/django-icon.svg">&nbsp;
   <img width=50px src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png">&nbsp;
+  <img width=50px src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png">&nbsp;
+  
 </div>
 
 ## 🤘🏻 Other Experiences
