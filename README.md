@@ -38,6 +38,7 @@
   <img width=50px src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/242px-Racket-logo.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png">&nbsp;
+  <img width=50px src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">&nbsp;
 </div>
 
 ## 🤘🏻 Other Experiences
