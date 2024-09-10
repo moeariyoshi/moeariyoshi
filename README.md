@@ -1,4 +1,4 @@
-# Hi, I'm Moe! 👋🏻 
+# Hi, I'm Moé! 👋🏻 
 
 *I am currently looking for a summer internship opportunity anywhere in the world* 🌍
 
