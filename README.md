@@ -37,6 +37,7 @@
   <img width=50px src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png">&nbsp;
   <img width=50px src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/242px-Racket-logo.svg.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png">&nbsp;
 </div>
 
 ## 🤘🏻 Other Experiences
