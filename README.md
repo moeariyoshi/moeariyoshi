@@ -38,6 +38,7 @@
    <img width=50px src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">&nbsp;
    <img width=50px src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png">&nbsp;
    <img width=50px src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png">&nbsp;
+   <img width=50px src="https://w7.pngwing.com/pngs/380/11/png-transparent-latex-hd-logo.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png">&nbsp;
   <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png">&nbsp;
 </div>
