@@ -4,7 +4,8 @@
 
 ## 👯‍♀️  Projects I want to find friends to work together on...
 - CTF
-- AWS certificate
+- AWS Solutions Architect Certificate
+- Web crawlers/scrapers
 
 ## 💬 Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moeariyoshi&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,6 +45,7 @@
 </div>
 
 ## 🤘🏻 Other Experiences
+- Research Assistant | Oberlin College Computer Science Department Taggart Lab | Oberlin, OH | September 2024 - present
 - Research Assistant | Carnegie India | New Delhi, India | July 2024 -
 - Bonner Fellow Research Assistant | Oberlin, OH | January 2024 - present
 - Software Engineer | lamproo, inc. | Tokyo, Japan | May 2023 - Aug 2023
