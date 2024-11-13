@@ -50,7 +50,7 @@ LinkedIn: https://www.linkedin.com/in/moeariyoshi/
 - Research Assistant | Oberlin College Computer Science Department Taggart Lab | Oberlin, OH | September 2024 - present
 - Research Assistant | Carnegie India | New Delhi, India | July 2024 -
 - Bonner Fellow Research Assistant | Oberlin, OH | January 2024 - present
-- Software Engineer | lamproo, inc. | Tokyo, Japan | May 2023 - Aug 2023
+- Software Engineer | lamproo, inc. | Tokyo, Japan | May 2023 - Aug 2023 (recent project: https://www.kachisuji.com/ front-end)
 - Social Media Intern | Oberlin College | Oberlin, OH | Jan 2023 - present
 - Scenic Artist Assistant | Oberlin College Theater Department | Oberlin, OH | Jan 2023 - present 
 - Involvement Leader | Oberlin College Girls Who Code | Oberlin, OH | Nov 2022 - present
